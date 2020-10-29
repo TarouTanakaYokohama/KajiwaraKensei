@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://KajiwaraKensei.bitbucket.io/KajiwaraKensei/style.css" />
+<link rel="stylesheet" href="https://kajiwarakensei.github.io/KajiwaraKensei/style.css" />
 
 <div class="ticket-visual_visual" id="ticket">
   <div class="left"></div>
