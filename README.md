@@ -1,16 +1,31 @@
-### Hi there 👋
+<link rel="stylesheet" href="./style.css" />
 
-<!--
-**KajiwaraKensei/KajiwaraKensei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div class="ticket-visual_visual" id="ticket">
+  <div class="left"></div>
+  <div class="right"></div>
+  <div class="ticket-visual-wrapper">
+    <div class="ticket-visual_profile">
+      <div class="ticket-profile_profile">
+        <img
+          src="./boll.jpg"
+          alt="medhatdawoud"
+          class="ticket-profile_image"
+        />
+        <div class="ticket-profile_text">
+          <p class="ticket-profile_name">Kajiwara Kensei</p>
+          <p class="ticket-profile_username">
+            <span class="ticket-profile_githubIcon">
+              <img src="./github.svg" alt="" />
+            </span>
+            KajiwaraKensei
+          </p>
+        </div>
+      </div>
+      <div class="ticket-event">
+      </div>
+    </div>
+    <div class="ticket-visual_ticket-number-wrapper">
+      <div class="ticket-visual_ticket-number">№ 1270632</div>
+    </div>
+  </div>
+</div>
